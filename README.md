@@ -56,8 +56,8 @@ import puppeteer from 'puppeteer';
 
 ## Example
 
-![Before](images/before.png)
-![After](images/after.png)
+![Before](assets/before.png)
+![After](assets/after.png)
 
 ## Ethics & legal
 - Use this project only for lawful and ethical scraping or automation.
