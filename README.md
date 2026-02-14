@@ -56,7 +56,9 @@ import puppeteer from 'puppeteer';
 
 ## Example
 
-![Before](assets/before.png)
+Before:
+![Before](assets/before.png) <br/>
+After:
 ![After](assets/after.png)
 
 ## Ethics & legal
